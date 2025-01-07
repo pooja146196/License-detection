@@ -1,0 +1,4 @@
+train: dataset/images/train  # Path to train images
+val: dataset/images/valid   # Path to validation images
+nc: 1                       # Number of classes
+names: ['license_plate']    # Class name

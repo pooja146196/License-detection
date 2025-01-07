@@ -1,0 +1,5 @@
+train: '/content/drive/My Drive/Data/split_dataset/train/images'
+val: '/content/drive/My Drive/Data/split_dataset/val/images'
+test: '/content/drive/My Drive/Data/split_dataset/test/images'
+nc: 1  # Number of classes (change if you have more than 1 class)
+names: ['license_plate']  # Class names
